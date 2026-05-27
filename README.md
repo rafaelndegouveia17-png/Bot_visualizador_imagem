@@ -1,0 +1,1 @@
+# Bot_visualizador_imagem
